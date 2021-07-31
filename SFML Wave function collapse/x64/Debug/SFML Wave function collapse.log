@@ -1,13 +1,14 @@
 ﻿  main.cpp
-C:\Coding\cpp projects\SFML World Generator DEMO\SFML World Generator DEMO\main.cpp(30,36): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Coding\cpp projects\SFML World Generator DEMO\SFML World Generator DEMO\main.cpp(87,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Coding\cpp projects\SFML World Generator DEMO\SFML World Generator DEMO\main.cpp(31,36): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Coding\cpp projects\SFML World Generator DEMO\SFML World Generator DEMO\main.cpp(96,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
           with
           [
               T=float
           ]
-C:\Coding\cpp projects\SFML World Generator DEMO\SFML World Generator DEMO\main.cpp(87,35): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Coding\cpp projects\SFML World Generator DEMO\SFML World Generator DEMO\main.cpp(96,35): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
           with
           [
               T=float
           ]
+C:\Coding\cpp projects\SFML World Generator DEMO\SFML World Generator DEMO\main.cpp(263,27): warning C4305: =: усечение из "double" в "float"
   SFML Wave function collapse.vcxproj -> C:\Coding\cpp projects\SFML Wave function collapse\x64\Debug\SFML Wave function collapse.exe
