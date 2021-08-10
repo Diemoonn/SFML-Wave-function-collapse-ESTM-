@@ -1,13 +1,13 @@
 ﻿  main.cpp
-C:\Coding\cpp projects\SFML World Generator DEMO\SFML World Generator DEMO\main.cpp(106,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Coding\cpp projects\SFML Wave function collapse\SFML Wave function collapse\main.cpp(104,38): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
           with
           [
               T=float
           ]
-C:\Coding\cpp projects\SFML World Generator DEMO\SFML World Generator DEMO\main.cpp(106,35): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Coding\cpp projects\SFML Wave function collapse\SFML Wave function collapse\main.cpp(104,35): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
           with
           [
               T=float
           ]
-C:\Coding\cpp projects\SFML World Generator DEMO\SFML World Generator DEMO\main.cpp(316,27): warning C4305: =: усечение из "double" в "float"
+C:\Coding\cpp projects\SFML Wave function collapse\SFML Wave function collapse\main.cpp(334,27): warning C4305: =: усечение из "double" в "float"
   SFML Wave function collapse.vcxproj -> C:\Coding\cpp projects\SFML Wave function collapse\x64\Debug\SFML Wave function collapse.exe
